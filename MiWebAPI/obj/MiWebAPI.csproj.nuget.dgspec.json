@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Facu\\Downloads\\Facultad\\Taller2\\Practica\\TP7\\tl2-tp7-2025-PRFacundoR\\MiWebAPI\\MiWebAPI.csproj": {}
+    "C:\\Users\\Facu\\Downloads\\Facultad\\Taller2\\Practica\\TP7\\tl2-tp7-2025-PRFacundoR\\MiWebAPI\\MiWebAPI.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Facu\\Downloads\\Facultad\\Taller2\\Practica\\TP7\\tl2-tp7-2025-PRFacundoR\\MiWebAPI\\MiWebAPI.csproj": {
+    "C:\\Users\\Facu\\Downloads\\Facultad\\Taller2\\Practica\\TP7\\tl2-tp7-2025-PRFacundoR\\MiWebAPI\\MiWebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Facu\\Downloads\\Facultad\\Taller2\\Practica\\TP7\\tl2-tp7-2025-PRFacundoR\\MiWebAPI\\MiWebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Facu\\Downloads\\Facultad\\Taller2\\Practica\\TP7\\tl2-tp7-2025-PRFacundoR\\MiWebAPI\\MiWebAPI.csproj",
         "projectName": "MiWebAPI",
-        "projectPath": "c:\\Users\\Facu\\Downloads\\Facultad\\Taller2\\Practica\\TP7\\tl2-tp7-2025-PRFacundoR\\MiWebAPI\\MiWebAPI.csproj",
+        "projectPath": "C:\\Users\\Facu\\Downloads\\Facultad\\Taller2\\Practica\\TP7\\tl2-tp7-2025-PRFacundoR\\MiWebAPI\\MiWebAPI.csproj",
         "packagesPath": "C:\\Users\\Facu\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Facu\\Downloads\\Facultad\\Taller2\\Practica\\TP7\\tl2-tp7-2025-PRFacundoR\\MiWebAPI\\obj\\",
+        "outputPath": "C:\\Users\\Facu\\Downloads\\Facultad\\Taller2\\Practica\\TP7\\tl2-tp7-2025-PRFacundoR\\MiWebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Facu\\AppData\\Roaming\\NuGet\\NuGet.Config"
